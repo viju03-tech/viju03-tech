@@ -1,17 +1,37 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/viju03-tech/viju03-tech/main/dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/viju03-tech/viju03-tech/main/light.svg">
-  <img alt="Viju B" src="https://raw.githubusercontent.com/viju03-tech/viju03-tech/main/light.svg">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Viju%20B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20ML%20%26%20Cybersecurity%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <div align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=viju03-tech&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-<br/>
-<img width="49%" src="https://github-readme-stats-jade-eight-37.vercel.app/api?username=viju03-tech&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats-jade-eight-37.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Viju;Final+Year+Student;Machine+Learning+%2B+Flask+Developer;Building+Network+Intrusion+Detection+Systems" alt="Typing SVG" />
+
 </div>
+
+## 👨‍💻 About Me
+- 🎓 Final year college student
+- 🔭 Working on **SecureNet AI** - network intrusion detection with CNN-LSTM
+- 🤖 Completed ML internship at **Cognifyz Technologies**
+- 🌱 Learning deep learning, cybersecurity and web development
+- 📫 Reach me: vijuaswin03@gmail.com
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,sklearn,html,css,js,sqlite,git,github,vscode" />
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [🛡️ SecureNet-AI](https://github.com/viju03-tech/SecureNet-AI) | Flask app for network intrusion detection using CNN-LSTM on CIC-IDS2017 |
+| [📊 Cognifyz-ML-Internship](https://github.com/viju03-tech/Cognifyz-ML-Internship) | ML tasks: restaurant ratings, cuisine classification, location analysis |
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 <div align="center">
 <picture>
