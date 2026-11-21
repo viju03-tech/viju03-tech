@@ -1,50 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=VIJU%20B&fontSize=64&fontColor=00D4FF&animation=fadeIn&fontAlignY=40&desc=ML%20Enthusiast%20%E2%80%A2%20Cybersecurity%20Explorer%20%E2%80%A2%20Flask%20Developer&descAlignY=62&descSize=17&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07110E,45:063D31,100:00C9A7&height=150&section=header&text=VIJU%20B&fontSize=42&fontColor=E9FFF8&fontAlignY=38&desc=ML%20Enthusiast%20%7C%20Developer%20%7C%20Tech%20Explorer&descAlignY=60&descSize=13" width="100%" alt="Viju B banner" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+AI+%26+Security+Software;Designing+Intelligent+Web+Applications;Training+Deep+Learning+Models;Learning+by+building+real+projects" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=900&color=39E6BD&center=true&vCenter=true&width=650&lines=Building+Intelligence+with+Data;Exploring+Machine+Learning+%26+Deep+Learning;Turning+Ideas+into+Practical+Projects" alt="Typing introduction" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=viju03-tech&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/viju03-tech?style=for-the-badge&color=0f2027&labelColor=203a43&logo=github" />
-<img src="https://img.shields.io/github/stars/viju03-tech?style=for-the-badge&color=0f2027&labelColor=203a43&logo=github" />
+<a href="https://github.com/viju03-tech">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0B1512?style=for-the-badge&logo=github&logoColor=39E6BD" alt="GitHub profile" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-0B1512?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🌿 About Me
 
-<div align="center">
-
-**I'm a developer who enjoys turning ideas into real, working software.**
-
-🎓 B.E. Computer Science & Engineering @ Sathyabama University
-
-I build web applications and ML models, while exploring deep learning, cybersecurity and automation.
-
-`🔨 Build things I'm curious about` • `🧪 Learn by experimenting` • `🚀 Improve through projects`
-
-</div>
+- 🎓 Computer Science and Engineering graduate.
+- 🤖 Interested in **Data Science, Machine Learning, and Deep Learning**.
+- 🧠 Exploring neural networks, NLP, and practical AI applications.
+- 🛠️ Building projects and continuously improving my development skills.
+- 📚 Currently learning, experimenting, and turning concepts into working solutions.
 
 ---
 
 ## 🚀 Products & Projects
 
-| Product | Overview | Status |
-|---------|----------|--------|
-| 🛡️ [**SecureNet AI**](https://github.com/viju03-tech/SecureNet-AI) | Flask web app for network intrusion detection using a CNN-LSTM model trained on CIC-IDS2017 | ![Completed](https://img.shields.io/badge/-Completed-2ea043?style=flat-square) |
-| 📊 [**Cognifyz ML Internship**](https://github.com/viju03-tech/Cognifyz-ML-Internship) | Restaurant rating prediction, cuisine classification and location analysis | ![Completed](https://img.shields.io/badge/-Completed-2ea043?style=flat-square) |
-| 🤖 **Discord Security Bot** | Multipurpose Discord bot in Python with moderation and security features | ![In Development](https://img.shields.io/badge/-In%20Development-f0883e?style=flat-square) |
-| ✨ **More Coming Soon** | Continuously building new AI, security and automation projects | ![Ongoing](https://img.shields.io/badge/-Ongoing-1f6feb?style=flat-square) |
+| Project | Description | Status |
+|:--|:--|:--:|
+| **Network Intrusion Detection & Cyber Attack Classification** | CNN-LSTM deep learning model for network intrusion detection and cyber-attack classification. | 🟢 Academic project |
+| **More projects coming soon** | New experiments and practical development projects will be added here. | 🔵 In progress |
+
+> Add your repository links to the project names when the repositories are public.
 
 ---
 
-## 🐍 Contribution Board
+## 📊 Contribution Board
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/viju03-tech/viju03-tech/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+<!-- Contribution calendar is provided by GitHub's contribution graph. -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viju03-tech&bg_color=080F0D&color=39E6BD&line=16A085&point=E9FFF8&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
 </div>
 
 ---
@@ -53,40 +53,67 @@ I build web applications and ML models, while exploring deep learning, cybersecu
 
 <div align="center">
 
-<a href="https://github.com/viju03-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:vijuaswin03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/viju03-tech">
+  <img src="https://img.shields.io/badge/GitHub-0B1512?style=for-the-badge&logo=github&logoColor=E9FFF8" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/viju-b-4499823b4">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1512?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://discord.com/users/796356535357931530">
+  <img src="https://img.shields.io/badge/Discord-0B1512?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+</a>
+<a href="https://www.instagram.com/wi.juu/">
+  <img src="https://img.shields.io/badge/Instagram-0B1512?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+</a>
 
 </div>
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-**💻 Programming Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" /><br/><br/>
+**Programming Languages**
 
-**🧠 ML & Data**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js&theme=dark" alt="Python, C, C++, JavaScript" />
 
-**🌐 Frameworks & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=flask,sqlite" /><br/><br/>
+**Data Science & Machine Learning**
 
-**🛠️ Development Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br/><br/>
+<img src="https://img.shields.io/badge/Pandas-0B1512?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-0B1512?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+<img src="https://img.shields.io/badge/Scikit--learn-0B1512?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Jupyter-0B1512?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="VS Code, Git, GitHub" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&hide_border=true&bg_color=080F0D&title_color=39E6BD&icon_color=16A085&text_color=D7EDE6&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&hide_border=true&bg_color=080F0D&title_color=39E6BD&text_color=D7EDE6" alt="Most used languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=viju03-tech&hide_border=true&background=080F0D&ring=39E6BD&fire=16A085&currStreakLabel=39E6BD&sideLabels=D7EDE6&dates=8BA69C&currStreakNum=E9FFF8&sideNums=E9FFF8" alt="GitHub streak statistics" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,55:063D31,100:07110E&height=90&section=footer" width="100%" alt="Emerald footer" />
+
+**Thanks for visiting!** ✨
+
+<sub>Designed with an Emerald Noir aesthetic · Keep learning, keep building.</sub>
+
+</div>
