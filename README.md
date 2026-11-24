@@ -10,7 +10,13 @@
 [![Followers](https://img.shields.io/github/followers/viju03-tech?style=for-the-badge&color=2563eb&label=Followers)](https://github.com/viju03-tech?tab=followers)
 [![Stars](https://img.shields.io/github/stars/viju03-tech?style=for-the-badge&color=2563eb&label=Stars)](https://github.com/viju03-tech)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=480&lines=Data+Science+%26+Machine+Learning;AI+Builder+%E2%80%94+HireSense+%26+MeetScribe;Turning+ideas+into+products" alt="Typing animation" />
+<p align="center">
+  <b>Data Science & Machine Learning</b> · <b>AI Builder</b> · <b>Turning ideas into shipped products</b>
+</p>
+
+<p align="center">
+  🔭 Currently building <a href="https://viju03-tech.github.io/hiresense/">HireSense</a> & <a href="https://viju03-tech.github.io/meetscribe/">MeetScribe</a> — AI tools that actually ship 🚀
+</p>
 
 </div>
 
