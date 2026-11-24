@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/viju03-tech/viju03-tech/main/assets/banner.gif" width="100%" alt="VIJU B — Data Science & ML • AI Builder • CSE Student"/>
+<img src="https://raw.githubusercontent.com/viju03-tech/viju03-tech/main/assets/banner.gif" width="100%" alt="VIJU B — Data Science & Machine Learning • AI Builder • CSE Student"/>
 
-### BUILD • LEARN • SHIP
+<br/>
+
+### ✦ &nbsp;BUILD &nbsp;•&nbsp; LEARN &nbsp;•&nbsp; SHIP&nbsp; ✦
 
 *Turning ideas into real, working software.*
 
@@ -10,13 +12,11 @@
 [![Followers](https://img.shields.io/github/followers/viju03-tech?style=for-the-badge&color=2563eb&label=Followers)](https://github.com/viju03-tech?tab=followers)
 [![Stars](https://img.shields.io/github/stars/viju03-tech?style=for-the-badge&color=2563eb&label=Stars)](https://github.com/viju03-tech)
 
-<p align="center">
-  <b>Data Science & Machine Learning</b> · <b>AI Builder</b> · <b>Turning ideas into shipped products</b>
-</p>
+<br/>
 
-<p align="center">
-  🔭 Currently building <a href="https://viju03-tech.github.io/hiresense/">HireSense</a> & <a href="https://viju03-tech.github.io/meetscribe/">MeetScribe</a> — AI tools that actually ship 🚀
-</p>
+> **Data Science & Machine Learning** · **AI Builder** · **Turning ideas into shipped products**
+>
+> 🔭 Currently building [**HireSense**](https://viju03-tech.github.io/hiresense/) & [**MeetScribe**](https://viju03-tech.github.io/meetscribe/) — AI tools that actually ship 🚀
 
 </div>
 
