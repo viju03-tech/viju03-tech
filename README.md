@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0F2A6B,100:0B1220&height=170&section=header&text=VIJU%20B&fontSize=58&fontColor=FFFFFF&fontAlignY=46&desc=Data%20Science%20%26%20ML%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CSE%20Student&descAlignY=76&descSize=14&descColor=60A5FA" width="100%"/>
+# VIJU B
+
+**Data Science & ML • AI Builder • CSE Student**
 
 ### Building real AI tools — not just tutorials
 
