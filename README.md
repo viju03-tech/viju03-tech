@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/viju03-tech/viju03-tech/main/assets/banner.png" width="100%" alt="VIJU B — Data Science & ML • AI Builder • CSE Student"/>
+<img src="https://raw.githubusercontent.com/viju03-tech/viju03-tech/main/assets/banner.gif" width="100%" alt="VIJU B — Data Science & ML • AI Builder • CSE Student"/>
 
 ### BUILD • LEARN • SHIP
 
