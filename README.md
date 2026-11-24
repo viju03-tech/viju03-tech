@@ -6,6 +6,9 @@
 
 **Data Science & ML • AI Builder • CSE Student**
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning;AI+Builder+%E2%80%94+HireSense+%26+MeetScribe;Turning+ideas+into+shipped+products" alt="Typing animation" />
+
+
 ### Building real AI tools — not just tutorials
 
 [![Profile Views](https://komarev.com/ghpvc/?username=viju03-tech&style=for-the-badge&color=2563eb)](https://github.com/viju03-tech)
@@ -52,6 +55,16 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=dark&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&border_color=30363D&hide_border=false)
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viju03-tech&bg_color=0d1117&color=60a5fa&line=60a5fa&point=60a5fa&area=true&hide_border=true)](https://github.com/viju03-tech)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/viju03-tech/viju03-tech/output/github-contribution-grid-snake.svg)
 
 </div>
 
