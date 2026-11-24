@@ -1,19 +1,16 @@
-<!-- ═══════════════ HEADER — dark theme ═══════════════ -->
-
 <div align="center">
 
-# VIJU B
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=VIJU%20B&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%26%20ML%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CSE%20Student&descAlignY=62&descSize=15&descColor=E0F2FE&animation=fadeIn" width="100%"/>
 
-**Data Science & ML • AI Builder • CSE Student**
+### BUILD • LEARN • SHIP
+
+*Turning ideas into real, working software.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=viju03-tech&style=flat-square&color=2563eb)](https://github.com/viju03-tech)
+[![Followers](https://img.shields.io/github/followers/viju03-tech?style=flat-square&color=2563eb&label=Followers)](https://github.com/viju03-tech?tab=followers)
+[![Stars](https://img.shields.io/github/stars/viju03-tech?style=flat-square&color=2563eb&label=Stars)](https://github.com/viju03-tech)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning;AI+Builder+%E2%80%94+HireSense+%26+MeetScribe;Turning+ideas+into+shipped+products" alt="Typing animation" />
-
-
-### Building real AI tools — not just tutorials
-
-[![Profile Views](https://komarev.com/ghpvc/?username=viju03-tech&style=for-the-badge&color=2563eb)](https://github.com/viju03-tech)
-[![Followers](https://img.shields.io/github/followers/viju03-tech?style=for-the-badge&color=2563eb&label=Followers)](https://github.com/viju03-tech?tab=followers)
-[![Stars](https://img.shields.io/github/stars/viju03-tech?style=for-the-badge&color=2563eb&label=Stars)](https://github.com/viju03-tech)
 
 </div>
 
@@ -35,24 +32,28 @@
 
 ---
 
-## ✨ Featured Projects
+## ✨ Products & Projects
 
-| Project | What it does | Live |
-|:---|:---|:---|
-| 🔍 **HireSense — AI Resume Analyzer** | Upload a resume → skill match score, ATS score, salary estimate, 32 jobs ranked by match %, resume builder with improved PDF | [🌐 Live site](https://viju03-tech.github.io/hiresense/) · [💻 Code](https://github.com/viju03-tech/hiresense) |
-| 🎙️ **MeetScribe — AI Meeting Assistant** | Record/upload meeting audio → transcript, grounded summary, decisions, action items, Ask Your Meeting Q&A | [🌐 Live site](https://viju03-tech.github.io/meetscribe/) · [💻 Code](https://github.com/viju03-tech/meetscribe) |
-| 🛡️ **SecureNet AI** | Network intrusion detection & cyber attack classification with CNN-LSTM deep learning | [💻 Code](https://github.com/viju03-tech/SecureNet-AI) |
-| 🤖 **Vyre Core** | All-in-one Discord bot — moderation, security, music, in-Discord control panel | 🔧 In progress |
-| 📊 **Cognifyz ML Internship** | Machine learning tasks — data preprocessing, model training & evaluation | [💻 Code](https://github.com/viju03-tech/Cognifyz-ML-Internship) |
+| Project | Overview | Status |
+|:---|:---|:---:|
+| 🔍 **HireSense — AI Resume Analyzer** | Upload a resume → skill match score, ATS score, salary estimate, 32 jobs ranked by match %, resume builder with improved PDF | 🟢 Live |
+| 🎙️ **MeetScribe — AI Meeting Assistant** | Record/upload meeting audio → transcript, grounded summary, decisions, action items, Ask Your Meeting Q&A | 🟢 Live |
+| 🛡️ **SecureNet AI** | Network intrusion detection & cyber attack classification with CNN-LSTM deep learning | 🟢 Completed |
+| 🤖 **Vyre Core** | All-in-one Discord bot — moderation, security, music, in-Discord control panel | 🟠 In Progress |
+| 📊 **Cognifyz ML Internship** | Machine learning tasks — data preprocessing, model training & evaluation | 🟢 Completed |
+
+🌐 **Live sites:** [HireSense](https://viju03-tech.github.io/hiresense/) · [MeetScribe](https://viju03-tech.github.io/meetscribe/)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Viju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=dark&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=60A5FA&border_color=30363D&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=dark&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&border_color=30363D&hide_border=false)
+![Viju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=60A5FA&border_color=30363D&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&border_color=30363D&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=viju03-tech&theme=tokyonight&background=0D1117&border=30363D&stroke=60A5FA&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA)
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viju03-tech&bg_color=0d1117&color=60a5fa&line=60a5fa&point=60a5fa&area=true&hide_border=true)](https://github.com/viju03-tech)
 
@@ -64,23 +65,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/viju03-tech/viju03-tech/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**AI / ML:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Web & Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Snake animation](https://raw.githubusercontent.com/viju03-tech/viju03-tech/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -97,3 +82,22 @@
 
 </div>
 
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark)](https://skillicons.dev)
+
+### 🧠 AI / ML & Data
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Web & Backend
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nextjs,flask,postgres,docker,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
