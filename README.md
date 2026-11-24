@@ -1,53 +1,71 @@
- 
-<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- ═══════════════ HEADER — light theme ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1920,50:102d38,100:0b1920&height=150&section=header&text=VIJU%20B&fontSize=55&fontColor=00E5FF&fontAlignY=48&desc=ML%20Enthusiast%20%E2%80%A2%20Cybersecurity%20Explorer%20%E2%80%A2%20Flask%20Developer&descAlignY=75&descSize=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:eaf2ff,100:ffffff&height=170&section=header&text=VIJU%20B&fontSize=58&fontColor=0F2A6B&fontAlignY=46&desc=Data%20Science%20%26%20ML%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CSE%20Student&descAlignY=76&descSize=14&descColor=2563EB" width="100%"/>
 
-### Training Deep Learning Models
+### Building real AI tools — not just tutorials
 
-[![Profile Views](https://komarev.com/ghpvc/?username=viju03-tech&style=for-the-badge&color=00d9ff)](https://github.com/viju03-tech)
-[![Followers](https://img.shields.io/github/followers/viju03-tech?style=for-the-badge&color=00d9ff&label=Followers)](https://github.com/viju03-tech?tab=followers)
-[![Stars](https://img.shields.io/github/stars/viju03-tech?style=for-the-badge&color=00d9ff&label=Stars)](https://github.com/viju03-tech)
+[![Profile Views](https://komarev.com/ghpvc/?username=viju03-tech&style=for-the-badge&color=2563eb)](https://github.com/viju03-tech)
+[![Followers](https://img.shields.io/github/followers/viju03-tech?style=for-the-badge&color=2563eb&label=Followers)](https://github.com/viju03-tech?tab=followers)
+[![Stars](https://img.shields.io/github/stars/viju03-tech?style=for-the-badge&color=2563eb&label=Stars)](https://github.com/viju03-tech)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
 <div align="center">
 
-I'm a developer who enjoys turning ideas into real, working software.
+🎓 **B.E. Computer Science & Engineering** — Sathyabama Institute of Science and Technology (2022–2026)
 
-🎓 Computer Science & Engineering Graduate
+🤖 I build **AI-powered tools people can actually use** — resume analyzers, meeting assistants, Discord bots.
 
-💻 Interested in Machine Learning, Deep Learning & Cybersecurity.
+🧠 Into **Data Science, Machine Learning, Deep Learning & Cybersecurity** — and turning ideas into shipped projects.
 
-🚀 I build practical projects with Python, explore new technologies, and continuously improve my skills.
-
-⚡ Currently exploring AI, Flask, and modern development tools.
+🚀 Currently building with **Python, FastAPI, Next.js** — and keeping a daily commit streak going.
 
 </div>
 
 ---
 
-## 🚀 Products & Projects
+## ✨ Featured Projects
 
-| Project | Overview | Status |
-|:---|:---|:---:|
-| 🛡️ Network Intrusion Detection | Network attack detection and classification using CNN-LSTM Deep Learning | 🟢 Completed |
-| 🤖 VyreCore | Discord bot development with Python and Lavalink integration | 🟠 In Progress |
-| 🌐 Developer Portfolio | Personal portfolio showcasing skills and projects | 🔵 Exploring |
+| Project | What it does | Live |
+|:---|:---|:---|
+| 🔍 **HireSense — AI Resume Analyzer** | Upload a resume → skill match score, ATS score, salary estimate, 32 jobs ranked by match %, resume builder with improved PDF | [🌐 Live site](https://viju03-tech.github.io/hiresense/) · [💻 Code](https://github.com/viju03-tech/hiresense) |
+| 🎙️ **MeetScribe — AI Meeting Assistant** | Record/upload meeting audio → transcript, grounded summary, decisions, action items, Ask Your Meeting Q&A | [🌐 Live site](https://viju03-tech.github.io/meetscribe/) · [💻 Code](https://github.com/viju03-tech/meetscribe) |
+| 🛡️ **SecureNet AI** | Network intrusion detection & cyber attack classification with CNN-LSTM deep learning | [💻 Code](https://github.com/viju03-tech/SecureNet-AI) |
+| 🤖 **Vyre Core** | All-in-one Discord bot — moderation, security, music, in-Discord control panel | 🔧 In progress |
+| 📊 **Cognifyz ML Internship** | Machine learning tasks — data preprocessing, model training & evaluation | [💻 Code](https://github.com/viju03-tech/Cognifyz-ML-Internship) |
 
 ---
 
-## 🌱 Contribution Board
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viju03-tech&bg_color=0d1117&color=00e5ff&line=8a2be2&point=00e5ff&area=true&hide_border=true)](https://github.com/viju03-tech)
+![Viju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=default&bg_color=ffffff&title_color=0F2A6B&text_color=334155&icon_color=2563EB&border_color=E2E8F0&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=default&bg_color=ffffff&title_color=0F2A6B&text_color=334155&border_color=E2E8F0&hide_border=false)
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viju03-tech&bg_color=ffffff&color=2563eb&line=2563eb&point=0F2A6B&area=true&hide_border=true)](https://github.com/viju03-tech)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI / ML:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Web & Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -57,48 +75,10 @@ I'm a developer who enjoys turning ideas into real, working software.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viju03-tech)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijuaswin03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viju-b-4499823b4)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wi.juu/)
-
-</div>
-
----
-
-## ⚙️ Tech Arsenal
-
-<div align="center">
-
-**💻 Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" />
-
-**🧠 ML & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,mysql" />
-
-**🗄️ Frameworks & Databases**
-
-<img src="https://skillicons.dev/icons?i=flask,react,mongodb,oracle" />
-
-**🛠️ Development Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&text_color=C9D1D9&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=transparent&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&hide_border=true" />
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=viju03-tech&theme=transparent&background=0D1117&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF&hide_border=true" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viju03-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viju-b-4499823b4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wi.juu/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijuaswin03@gmail.com)
 
 </div>
 
@@ -106,10 +86,6 @@ I'm a developer who enjoys turning ideas into real, working software.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1920,50:102d38,100:0b1920&height=55&section=footer" width="100%"/>
-
-**"Building. Learning. Innovating."**
-
-<sub>Designed with 💙 by Viju B.</sub>
+*Built with 💙 by Viju B — B.E. CSE, Sathyabama • Data Science & ML*
 
 </div>
