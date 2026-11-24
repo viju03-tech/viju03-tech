@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=VIJU%20B&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%26%20ML%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CSE%20Student&descAlignY=62&descSize=15&descColor=E0F2FE&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/viju03-tech/viju03-tech/main/assets/banner.png" width="100%" alt="VIJU B — Data Science & ML • AI Builder • CSE Student"/>
 
 ### BUILD • LEARN • SHIP
 
 *Turning ideas into real, working software.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=viju03-tech&style=flat-square&color=2563eb)](https://github.com/viju03-tech)
-[![Followers](https://img.shields.io/github/followers/viju03-tech?style=flat-square&color=2563eb&label=Followers)](https://github.com/viju03-tech?tab=followers)
-[![Stars](https://img.shields.io/github/stars/viju03-tech?style=flat-square&color=2563eb&label=Stars)](https://github.com/viju03-tech)
+[![Profile Views](https://komarev.com/ghpvc/?username=viju03-tech&style=for-the-badge&color=2563eb)](https://github.com/viju03-tech)
+[![Followers](https://img.shields.io/github/followers/viju03-tech?style=for-the-badge&color=2563eb&label=Followers)](https://github.com/viju03-tech?tab=followers)
+[![Stars](https://img.shields.io/github/stars/viju03-tech?style=for-the-badge&color=2563eb&label=Stars)](https://github.com/viju03-tech)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning;AI+Builder+%E2%80%94+HireSense+%26+MeetScribe;Turning+ideas+into+shipped+products" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=480&lines=Data+Science+%26+Machine+Learning;AI+Builder+%E2%80%94+HireSense+%26+MeetScribe;Turning+ideas+into+products" alt="Typing animation" />
 
 </div>
 
@@ -100,4 +100,3 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
