@@ -1,8 +1,8 @@
-<!-- ═══════════════ HEADER — light theme ═══════════════ -->
+<!-- ═══════════════ HEADER — dark theme ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:eaf2ff,100:ffffff&height=170&section=header&text=VIJU%20B&fontSize=58&fontColor=0F2A6B&fontAlignY=46&desc=Data%20Science%20%26%20ML%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CSE%20Student&descAlignY=76&descSize=14&descColor=2563EB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0F2A6B,100:0B1220&height=170&section=header&text=VIJU%20B&fontSize=58&fontColor=FFFFFF&fontAlignY=46&desc=Data%20Science%20%26%20ML%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CSE%20Student&descAlignY=76&descSize=14&descColor=60A5FA" width="100%"/>
 
 ### Building real AI tools — not just tutorials
 
@@ -46,10 +46,10 @@
 
 <div align="center">
 
-![Viju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=default&bg_color=ffffff&title_color=0F2A6B&text_color=334155&icon_color=2563EB&border_color=E2E8F0&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=default&bg_color=ffffff&title_color=0F2A6B&text_color=334155&border_color=E2E8F0&hide_border=false)
+![Viju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=dark&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=60A5FA&border_color=30363D&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=dark&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&border_color=30363D&hide_border=false)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viju03-tech&bg_color=ffffff&color=2563eb&line=2563eb&point=0F2A6B&area=true&hide_border=true)](https://github.com/viju03-tech)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viju03-tech&bg_color=0d1117&color=60a5fa&line=60a5fa&point=60a5fa&area=true&hide_border=true)](https://github.com/viju03-tech)
 
 </div>
 
@@ -82,10 +82,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-*Built with 💙 by Viju B — B.E. CSE, Sathyabama • Data Science & ML*
-
-</div>
