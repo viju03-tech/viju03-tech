@@ -6,7 +6,7 @@
 
 *Turning ideas into real, working software.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=viju03-tech&style=for-the-badge&color=7c3aed)](https://github.com/viju03-tech)
+[![Profile Views](https://komarev.com/ghpvc/?username=viju03-tech&style=for-the-badge&color=dc2626)](https://github.com/viju03-tech)
 
 </div>
 
@@ -28,11 +28,11 @@
 
 <div align="center">
 
-[![HireSense](https://github-readme-stats.vercel.app/api/pin/?username=viju03-tech&repo=hiresense&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA&border_color=30363D)](https://viju03-tech.github.io/hiresense/)
-[![MeetScribe](https://github-readme-stats.vercel.app/api/pin/?username=viju03-tech&repo=meetscribe&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA&border_color=30363D)](https://viju03-tech.github.io/meetscribe/)
+[![HireSense](https://github-readme-stats.vercel.app/api/pin/?username=viju03-tech&repo=hiresense&theme=tokyonight&bg_color=0D1117&title_color=F87171&text_color=C9D1D9&icon_color=F87171&border_color=30363D)](https://viju03-tech.github.io/hiresense/)
+[![MeetScribe](https://github-readme-stats.vercel.app/api/pin/?username=viju03-tech&repo=meetscribe&theme=tokyonight&bg_color=0D1117&title_color=F87171&text_color=C9D1D9&icon_color=F87171&border_color=30363D)](https://viju03-tech.github.io/meetscribe/)
 
-[![SecureNet AI](https://github-readme-stats.vercel.app/api/pin/?username=viju03-tech&repo=SecureNet-AI&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA&border_color=30363D)](https://github.com/viju03-tech/SecureNet-AI)
-[![Cognifyz ML Internship](https://github-readme-stats.vercel.app/api/pin/?username=viju03-tech&repo=Cognifyz-ML-Internship&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA&border_color=30363D)](https://github.com/viju03-tech/Cognifyz-ML-Internship)
+[![SecureNet AI](https://github-readme-stats.vercel.app/api/pin/?username=viju03-tech&repo=SecureNet-AI&theme=tokyonight&bg_color=0D1117&title_color=F87171&text_color=C9D1D9&icon_color=F87171&border_color=30363D)](https://github.com/viju03-tech/SecureNet-AI)
+[![Cognifyz ML Internship](https://github-readme-stats.vercel.app/api/pin/?username=viju03-tech&repo=Cognifyz-ML-Internship&theme=tokyonight&bg_color=0D1117&title_color=F87171&text_color=C9D1D9&icon_color=F87171&border_color=30363D)](https://github.com/viju03-tech/Cognifyz-ML-Internship)
 
 🌐 **Try them live:** [HireSense](https://viju03-tech.github.io/hiresense/) · [MeetScribe](https://viju03-tech.github.io/meetscribe/)
 
@@ -44,12 +44,12 @@
 
 <div align="center">
 
-![Viju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA&border_color=30363D&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=30363D&hide_border=false)
+![Viju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viju03-tech&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=F87171&text_color=C9D1D9&icon_color=F87171&border_color=30363D&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viju03-tech&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=F87171&text_color=C9D1D9&border_color=30363D&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=viju03-tech&theme=tokyonight&background=0D1117&border=30363D&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+![GitHub Streak](https://streak-stats.demolab.com?user=viju03-tech&theme=tokyonight&background=0D1117&border=30363D&stroke=F87171&ring=F87171&fire=F87171&currStreakLabel=F87171)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viju03-tech&bg_color=0d1117&color=a78bfa&line=a78bfa&point=a78bfa&area=true&hide_border=true)](https://github.com/viju03-tech)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viju03-tech&bg_color=0d1117&color=f87171&line=f87171&point=f87171&area=true&hide_border=true)](https://github.com/viju03-tech)
 
 </div>
 
